@@ -1,5 +1,9 @@
+
 # Kubernetes Security Audit Agent - Langgraph
 
+Rzero comment  :  
+Amazing !!! create agents on the cluster that will do tasks : 
+here is video : https://www.youtube.com/watch?v=XeTCqL0whDA
 ## Overview
 
 This is a Kubernetes security audit agent that uses Langgraph to audit the security of a Kubernetes cluster.
